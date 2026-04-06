@@ -4,8 +4,6 @@ Hi 👋 My name is Fachrizal Zulfan
 Software Engineering
 --------------------
 
-*   ✉️  You can contact me at [fachrizal.zulfan@sirclo.com](mailto:fachrizal.zulfan@sirclo.com)
-
 ### Skills
 <p align="left">
                                 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
